@@ -6,4 +6,3 @@ This repository is a collection of assignments for the "Introduction to Robotics
 
 ## Homework 1
 
-
