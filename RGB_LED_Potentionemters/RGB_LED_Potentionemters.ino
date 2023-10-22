@@ -33,12 +33,6 @@ void loop() {
     mappedBlueValue = map(blueValue, 0, 1023, 0, 255);
     mappedGreenValue = map(greenValue, 0, 1023, 0, 255);
 
-
-    Serial.println(mappedGreenValue);
-    Serial.println(mappedRedValue);
-    Serial.println(mappedBlueValue);
-    //Serial.println(blueValue);
-    //Serial.println(greenValue);
     analogWrite(redLedPin,mappedRedValue);
     analogWrite(greenLedPin,mappedGreenValue);
     analogWrite(blueLedPin,mappedBlueValue);
