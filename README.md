@@ -3,6 +3,7 @@ This repository is a collection of assignments for the "Introduction to Robotics
 ## Table of Contents
 
 - [Homework 1](#homework-1)
+- [Homework 2] (#homework-2)
 
 ## Homework 1
 
