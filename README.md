@@ -4,6 +4,7 @@ This repository is a collection of assignments for the "Introduction to Robotics
 
 - [Homework 1](#homework-1)
 - [Homework 2](#homework-2)
+- [Homework 3](#homework-3)
 
 ## Homework 1
 
@@ -17,5 +18,9 @@ The requirements of this homework where to simulate an elevator. My elevator isn
 <br />
 Link the the Video: https://youtu.be/MzQaLC4wf3A
 
+## HomeWork3
+The requirments of this homework where to use the joystick switch to control the 7 segments display. It should be able to select certain segments and use the hold function of the joystick button to reset all the segments.
+<br />
+Link to the video: https://www.youtube.com/watch?v=gw2TKci28t8
 
  
