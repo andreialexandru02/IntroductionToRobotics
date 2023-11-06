@@ -24,6 +24,13 @@ The requirements of this homework where to simulate an elevator. My elevator isn
 <br />
 Link the the Video: https://youtu.be/MzQaLC4wf3A
 
+<details>
+<summary>Photos</summary>
+
+![Image (1)](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/2a0ec126-de21-45f8-a46a-bbcf69ad670a)
+
+</details>
+
 ## HomeWork3
 The requirments of this homework where to use the joystick switch to control the 7 segments display. It should be able to select certain segments and use the hold function of the joystick button to reset all the segments.
 <br />
