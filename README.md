@@ -13,6 +13,7 @@ The requirements of this homework where to use 3 potentiometers to control each 
 <br />
 Link the the Video: https://youtu.be/knyk0hIq7Lc
 
+<br />
 <details>
 <summary>Photo</summary>
 
@@ -27,6 +28,7 @@ The requirements of this homework where to simulate an elevator. My elevator isn
 
 Link the the Video: https://youtu.be/MzQaLC4wf3A
 
+<br />
 <details>
 <summary>Photo</summary>
 
@@ -39,6 +41,8 @@ The requirments of this homework where to use the joystick switch to control the
 <br />
 
 Link to the Video: "https://www.youtube.com/watch?v=gw2TKci28t8"
+
+<br />
 
 <details>
 <summary>Photo</summary>
