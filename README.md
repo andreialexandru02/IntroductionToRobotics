@@ -12,6 +12,7 @@ The requirements of this homework where to use 3 potentiometers to control each 
 
 <br />
 Link the the Video: https://youtu.be/knyk0hIq7Lc
+
 <details>
 <summary>Photo</summary>
 
