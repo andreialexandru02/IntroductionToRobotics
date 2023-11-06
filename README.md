@@ -14,7 +14,7 @@ Link the the Video: https://youtu.be/knyk0hIq7Lc
 <details>
 <summary>Photo</summary>
 
-  ![Image](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/bcbff355-a2d6-4780-a124-39470bd5841e)
+ - ![Image](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/bcbff355-a2d6-4780-a124-39470bd5841e)
 
 </details>
 
@@ -25,9 +25,9 @@ The requirements of this homework where to simulate an elevator. My elevator isn
 Link the the Video: https://youtu.be/MzQaLC4wf3A
 
 <details>
-<summary>Photos</summary>
+<summary>Photo</summary>
 
-![Image (1)](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/2a0ec126-de21-45f8-a46a-bbcf69ad670a)
+- ![Image (1)](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/2a0ec126-de21-45f8-a46a-bbcf69ad670a)
 
 </details>
 
