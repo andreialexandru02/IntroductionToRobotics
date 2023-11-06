@@ -23,5 +23,10 @@ The requirments of this homework where to use the joystick switch to control the
 <br />
 Link to the video: https://www.youtube.com/watch?v=gw2TKci28t8
 
-![HomeWork4Img2](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/17c77a03-6ad0-4002-a93c-be63197545b5)
-![HomeWork4Img1](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/33932749-a048-4faf-934e-96fac5d63557)
+<details>
+<summary>Photos</summary>
+
+- ![HomeWork4Img2](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/17c77a03-6ad0-4002-a93c-be63197545b5)
+- ![HomeWork4Img1](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/33932749-a048-4faf-934e-96fac5d63557)
+
+</details>
