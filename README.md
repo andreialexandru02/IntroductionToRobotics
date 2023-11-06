@@ -11,6 +11,12 @@ This repository is a collection of assignments for the "Introduction to Robotics
 The requirements of this homework where to use 3 potentiometers to control each pin of the RGB_LED. I connected the three potentiometers to the A0, A1, A2 analog pins on the arduino board and then assigned the read values to each pin of the RGB_LED.
 <br />
 Link the the Video: https://youtu.be/knyk0hIq7Lc
+<details>
+<summary>Photo</summary>
+
+  ![Image](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/bcbff355-a2d6-4780-a124-39470bd5841e)
+
+</details>
 
 ## HomeWork2
 
@@ -25,9 +31,8 @@ The requirments of this homework where to use the joystick switch to control the
 Link to the Video: "https://www.youtube.com/watch?v=gw2TKci28t8"
 
 <details>
-<summary>Photos</summary>
+<summary>Photo</summary>
 
-- ![HomeWork4Img2](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/17c77a03-6ad0-4002-a93c-be63197545b5)
 - ![HomeWork4Img1](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/33932749-a048-4faf-934e-96fac5d63557)
 
 </details>
