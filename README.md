@@ -27,7 +27,7 @@ Link the the Video: https://youtu.be/MzQaLC4wf3A
 <details>
 <summary>Photo</summary>
 
-- ![Image (1)](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/2a0ec126-de21-45f8-a46a-bbcf69ad670a)
+![Image (1)](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/0955ae92-dcf8-47be-a2cb-ed9cfea195c5)
 
 </details>
 
