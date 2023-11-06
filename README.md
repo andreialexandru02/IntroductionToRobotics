@@ -21,7 +21,7 @@ Link the the Video: https://youtu.be/MzQaLC4wf3A
 ## HomeWork3
 The requirments of this homework where to use the joystick switch to control the 7 segments display. It should be able to select certain segments and use the hold function of the joystick button to reset all the segments.
 <br />
-Link to the video: 
+
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=gw2TKci28t8" frameborder="0" allowfullscreen></iframe>
 
 <details>
