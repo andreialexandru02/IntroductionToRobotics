@@ -55,7 +55,9 @@ Link to the Video: "https://www.youtube.com/watch?v=gw2TKci28t8"
 
  ## Homework 4
  The requirments of this homework where to use a 4 digits 7 segemnts display to create a stopwatch that can pause, reset, and save up to 4 laps.
-
+<br />
+Link to the video: https://www.youtube.com/watch?v=eAS9KAaX798
+<br />
  <details>
  <summary>Photos</summary>
  
