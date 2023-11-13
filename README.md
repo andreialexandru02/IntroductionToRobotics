@@ -58,7 +58,9 @@ Link to the Video: "https://www.youtube.com/watch?v=gw2TKci28t8"
 
  <details>
  <summary>Photos</summary>
- - ![Stopwatch_image1](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/86ac130c-22df-432b-9beb-e6ecd565f26e)
+ 
+-  ![Stopwatch_image1](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/fd0d98ef-a2a5-48ba-afeb-50cd8e736fff)
+-  ![Stopwatch_image2](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/b45de124-58a6-4c52-b8ae-4d24798795a7)
 
 
  </details>
