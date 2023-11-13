@@ -5,6 +5,7 @@ This repository is a collection of assignments for the "Introduction to Robotics
 - [Homework 1](#homework-1)
 - [Homework 2](#homework-2)
 - [Homework 3](#homework-3)
+- [Homework 4](#homework-4)
 
 ## Homework 1
 
@@ -51,3 +52,12 @@ Link to the Video: "https://www.youtube.com/watch?v=gw2TKci28t8"
 - ![HomeWork4Img1](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/33932749-a048-4faf-934e-96fac5d63557)
 
 </details>
+
+ ## Homework 4
+ The requirments of this homework where to use a 4 digits 7 segemnts display to create a stopwatch that can pause, reset, and save up to 4 laps.
+
+ <details>
+ <summary>Photos</summary>
+  ![Stopwatch_image2](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/494e8e64-a2a3-4df2-8785-7960a2271821)
+  ![Stopwatch_image1](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/5d30441d-871d-4891-8710-b532e7529544)
+ </details>
