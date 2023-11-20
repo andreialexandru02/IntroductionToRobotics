@@ -66,3 +66,13 @@ Link to the video: https://www.youtube.com/watch?v=eAS9KAaX798
 
 
  </details>
+
+ ## Homework 5
+ The requirments of this homework were to implement an interactive menu in which users can get data from two sensors and also control an RGB Led. The menu allowed user to set the sampling rate of the sensors and also their thresholds, view and reset them, view the readings of the sensors and also log their last 10 readings. The RGB Led can me manually controlled or used with automatic mode ON to singal that the data read by the sensors is under the set thresholds.
+
+ <br/>
+ Link to the video: https://youtu.be/Ern_xD30_cM
+<br/>
+ <details>
+![Tema6Image](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/e89f73e6-03c7-4fb4-9cc7-96dc28441257)
+ </details>
