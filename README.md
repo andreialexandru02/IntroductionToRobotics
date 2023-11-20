@@ -75,6 +75,7 @@ Link to the video: https://www.youtube.com/watch?v=eAS9KAaX798
  Link to the video: https://youtu.be/Ern_xD30_cM
 <br/>
  <details>
-  <summary>Photos<summary>
-- ![Tema6Image](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/e89f73e6-03c7-4fb4-9cc7-96dc28441257)
+  <summary>Photos</summary>
+ - ![Tema6Image](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/63018301-ed27-4b4d-ad4e-b8ab294e3bf7)
+
  </details>
