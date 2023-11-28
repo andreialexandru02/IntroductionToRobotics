@@ -7,6 +7,7 @@ This repository is a collection of assignments for the "Introduction to Robotics
 - [Homework 3](#homework-3)
 - [Homework 4](#homework-4)
 - [Homework 5](#homework-5)
+- [Homework 6](#homework-6)
 
 ## Homework 1
 
@@ -77,5 +78,16 @@ Link to the video: https://www.youtube.com/watch?v=eAS9KAaX798
  <details>
   <summary>Photos</summary>
  - ![Tema6Image](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/63018301-ed27-4b4d-ad4e-b8ab294e3bf7)
+
+ </details>
+
+  ## Homework 6
+ The requirments of this homework where to create a simple game on an 8x8 matrix. I made the BomberGame in which that matrix is filled with a variable number of walls and a player. The player can move through the empty spaces and place bomb in the neighbouring spaces. The bomb explodes in a form of a plus acroos the entire board and destroys everything in its way. If the player is caught in the blast of the bomb, you will lose. In orther to win you have to destroy all the walls on the map 
+<br />
+Link to the video: https://youtu.be/cjQZelgY7aU
+<br />
+ <details>
+ <summary>Photos</summary>
+ ![WhatsApp Image 2023-11-28 at 11 03 15](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/8104cd22-ea30-449a-90f5-20ad0649d42f)
 
  </details>
