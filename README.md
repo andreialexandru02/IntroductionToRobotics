@@ -93,7 +93,7 @@ Link to the video: https://youtu.be/cjQZelgY7aU
 
  </details>
 
-## Homework 7
+  ## Homework 7
  The requirments of this homework where to create the interactive menu on the LCD screen. This came in preparation for the matrix game project
 <br />
 Link to the video: https://www.youtube.com/shorts/nSyFlD1mVEw
