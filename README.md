@@ -8,6 +8,7 @@ This repository is a collection of assignments for the "Introduction to Robotics
 - [Homework 4](#homework-4)
 - [Homework 5](#homework-5)
 - [Homework 6](#homework-6)
+- [Homework 7](#homework-7)
 
 ## Homework 1
 
@@ -90,4 +91,13 @@ Link to the video: https://youtu.be/cjQZelgY7aU
  <summary>Photos</summary>
  ![WhatsApp Image 2023-11-28 at 11 03 15](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/8104cd22-ea30-449a-90f5-20ad0649d42f)
 
+ </details>
+  ## Homework 7
+ The requirments of this homework where to create the interactive menu on the LCD screen. This came in preparation for the matrix game project
+<br />
+Link to the video: https://www.youtube.com/shorts/nSyFlD1mVEw
+<br />
+ <details>
+ <summary>Photos</summary>
+ ![Image](https://github.com/andreialexandru02/IntroductionToRobotics/assets/93448105/2f2aff70-fc8a-496c-9321-d4a8ee7f22c5)
  </details>
